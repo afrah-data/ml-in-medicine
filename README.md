@@ -27,7 +27,7 @@ actuarial risk assessment and premium pricing.
 - Identified data leakage during hyperparameter tuning and corrected evaluation methodology
 - Produced business-ready interpretation: smoking status accounts for 90% of predictive signal
 
-**Key finding:** A single clinical feature (smoking status, coefficient +6.16) dominates cost prediction — a finding consistent with actuarial literature on risk stratification.
+**Key finding:** A single clinical feature (smoking status, coefficient +6.16) dominates cost prediction a finding consistent with actuarial literature on risk stratification.
 
 ---
 
@@ -40,7 +40,7 @@ addressing the class imbalance problem common in healthcare outcomes research.
 
 | | |
 |---|---|
-| **Dataset** | UCI Diabetes 130-US Hospitals — 101,766 patient encounters, 130 hospitals, 1999–2008 |
+| **Dataset** | UCI Diabetes 130-US Hospitals  101,766 patient encounters, 130 hospitals, 1999–2008 |
 | **Best Model** | Random Forest + SMOTE |
 | **AUC** | 0.606 |
 | **Readmission Rate** | 11% (severe class imbalance) |
