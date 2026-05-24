@@ -87,6 +87,6 @@ Python 3.10 · Pandas · NumPy · Scikit-learn · Imbalanced-learn · Matplotlib
 ## About
 
 Data Scientist specializing in **healthcare and insurance analytics**.  
-MS in Computer Science.  
+MS in Computer Science with Data Science.  
 Open to roles in clinical analytics, insurance risk modeling, and healthcare AI.
 
