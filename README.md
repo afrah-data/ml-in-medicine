@@ -120,3 +120,5 @@ Python 3.10 · Pandas · NumPy · Scikit-learn · Imbalanced-learn · Matplotlib
 Data Scientist specializing in **healthcare and insurance analytics**.  
 MS in Computer Science · 10+ years background in healthcare insurance operations.  
 Open to roles in clinical analytics, insurance risk modeling, and healthcare AI.
+
+[GitHub — ml-in-medicine](https://github.com/afrah-data/ml-in-medicine)
